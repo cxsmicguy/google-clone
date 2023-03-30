@@ -28,7 +28,7 @@ export default function SearchHeader() {
           Sign in
         </button>
       </div>
-      <div class="p-4 md:hidden">
+      <div className="p-4 md:hidden">
         <div className="text-right p-3 pt-0">
         <button className="bg-blue-500 text-white px-6 py-2 font-medium rounded-md hover:brightness-105 hover:shadow-md transition-all ml-2">
           Sign in
